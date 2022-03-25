@@ -1,0 +1,16 @@
+# dir
+cmake-build*/
+build*/
+.idea/
+.vs/
+.vscode/
+
+# file
+*.iml
+*.user*
+*.so*
+*.dll
+*.a
+*.o
+*.lib
+*.dat
